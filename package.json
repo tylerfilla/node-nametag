@@ -2,7 +2,10 @@
   "name": "nametag",
   "version": "0.1.0-dev",
   "description": "Examine the calling function.",
-  "main": "index.js",
+  "main": "lib/nametag.js",
+  "scripts": {
+      "test": "./script/test.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tylerfilla/node-nametag.git"
@@ -17,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/tylerfilla/node-nametag/issues"
   },
-  "homepage": "https://github.com/tylerfilla/node-nametag#readme"
+  "homepage": "https://github.com/tylerfilla/node-nametag#readme",
+  "devDependencies": {
+    "eslint": "^3.3.1",
+    "mocha": "^3.0.2"
+  }
 }
