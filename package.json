@@ -1,14 +1,11 @@
 {
   "name": "nametag",
   "version": "0.1.0-dev",
-  "description": "Get info about the current function",
+  "description": "Examine the calling function.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tylerfilla/v8-get-function-name.git"
+    "url": "git+https://github.com/tylerfilla/node-nametag.git"
   },
   "keywords": [
     "function",
@@ -18,7 +15,7 @@
   "author": "Tyler Filla <tylerfilla@gmail.com> (https://keybase.io/tylerfilla)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tylerfilla/v8-get-function-name/issues"
+    "url": "https://github.com/tylerfilla/node-nametag/issues"
   },
-  "homepage": "https://github.com/tylerfilla/v8-get-function-name#readme"
+  "homepage": "https://github.com/tylerfilla/node-nametag#readme"
 }
