@@ -1,6 +1,6 @@
 {
   "name": "nametag",
-  "version": "0.1.0-dev",
+  "version": "0.1.0",
   "description": "Examine the calling code.",
   "main": "lib/nametag.js",
   "scripts": {
