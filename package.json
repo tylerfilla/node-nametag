@@ -1,7 +1,7 @@
 {
   "name": "nametag",
   "version": "0.1.0-dev",
-  "description": "Examine the calling function.",
+  "description": "Examine the calling code.",
   "main": "lib/nametag.js",
   "scripts": {
       "test": "./script/test.js"
