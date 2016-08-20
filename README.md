@@ -26,7 +26,6 @@ function foo() {
     return nametag();
 }
 
-nametag(); // returns null
 foo(); // returns "foo"
 ```
 
