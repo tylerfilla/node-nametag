@@ -5,6 +5,8 @@ node-nametag
 [![Build Status](https://travis-ci.org/tylerfilla/node-nametag.svg?branch=master)](https://travis-ci.org/tylerfilla/node-nametag)
 [![Dependency Status](https://david-dm.org/tylerfilla/node-nametag.svg)](https://david-dm.org/tylerfilla/node-nametag)
 
+[![NPM](https://nodei.co/npm/nametag.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/nametag/)
+
 Examine the calling code.
 
 Installation
